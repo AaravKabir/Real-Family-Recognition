@@ -1,0 +1,21 @@
+.heading{
+    width:80%;
+    font-size: 32px;
+}
+body {
+    background-color: rgb(47, 139, 139);
+    color:firebrick;
+
+}
+
+.name_of_objects,#result_object_name,#result_object_acuuracy {
+    color:lightcoral;
+    font-size: 20px;
+}
+
+#camera {
+    border: rgb(216, 213, 21) 2px dashed;
+    width: 350px;
+    height: 300px;
+}
+
